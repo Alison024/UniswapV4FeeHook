@@ -4,8 +4,6 @@ pragma solidity ^0.8.19;
 import "forge-std/Script.sol";
 import {Hooks} from "v4-core/src/libraries/Hooks.sol";
 import {IPoolManager} from "v4-core/src/interfaces/IPoolManager.sol";
-
-import {Constants} from "./base/Constants.sol";
 import {DynamicFeeHook} from "../src/DynamicFeeHook.sol";
 import {Create2Deployer} from "../src/Create2Deployer.sol";
 import {HookMiner} from "../test/utils/HookMiner.sol";
