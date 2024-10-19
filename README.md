@@ -1,1 +1,1 @@
-# Uniswap V4 Dynamic Fee Hood Smart Contract
+# Uniswap V4 Dynamic Fee Hook Smart Contract
